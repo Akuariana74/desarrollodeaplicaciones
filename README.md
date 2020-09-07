@@ -1,2 +1,3 @@
 # desarrollodeaplicaciones
-Pruebas en desarrollo de Aplicaciones
+Pruebas en Desarrollo de Aplicaciones
+Mi primeros pasos en la programacion
